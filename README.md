@@ -12,7 +12,7 @@ This uses PostgreSQL for persistence and Flask Caching (RedisCache) for caching 
 Ensure that you have [Docker](https://www.docker.com/) installed in your host machine before trying to run the application.
 
 ```
-$ git clone https://github.com/kaikoh95/cow-herd-service.git
+$ git clone https://github.com/kaikoh95/flask-postgres-starter.git
 $ cd flask-postgres-starter
 $ docker-compose up --build
 ```
